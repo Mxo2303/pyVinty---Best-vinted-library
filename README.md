@@ -5,6 +5,8 @@ This document exposes **exactly** all the public functions usable from pyVinty, 
 
 ## Contact
 
+Message me for the source of the library.
+
 ### Discord : mxo23 or https://discord.gg/6gQXmCdP
 
 ## Table of Contents
