@@ -1,7 +1,11 @@
 # pyVinty - Public Functions
 
-Stateless with a stateful session client
+Stateless with a stateful session client.
 This document exposes **exactly** all the public functions usable from pyVinty, their parameters, and the returned data.
+
+## Contact
+
+### Discord : mxo23 or https://discord.gg/6gQXmCdP
 
 ## Table of Contents
 
