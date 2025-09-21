@@ -2,6 +2,12 @@
 
 This document provides complete documentation for all public functions available in pyVinty, including their parameters and return data.
 
+## Contact
+
+Message me for the source of the library.
+
+### Discord : mxo23 or https://discord.gg/6gQXmCdP
+
 ## Table of Contents
 
 1. [CloudScraper Session Configuration](#cloudscraper-session-configuration)
